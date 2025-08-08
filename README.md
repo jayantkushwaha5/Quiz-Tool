@@ -11,7 +11,7 @@ A simple, clean, and responsive **multiple-choice quiz tool** built using HTML, 
 - 🔒 **Full version available after payment**
 
 ## 📌 Live Demo
-[🔗 View Preview on GitHub Pages](https://jayantkushwaha5.github.io/index.html)
+[🔗 View Preview on GitHub Pages](https://jayantkushwaha5.github.io/Quiz-Tool/index.html)
 
 ## 📁 How to Use
 1. Download or clone the repo  
